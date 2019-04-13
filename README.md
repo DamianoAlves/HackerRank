@@ -5,6 +5,8 @@ Repository containg with description and my solution of Hacker Rank Challenges u
 ## Built With
 
 * [Java](https://www.java.com/) - Programming Language
+* [Python](https://www.python.org/) - Programming Language
+
 
 ## Contributing
 
